@@ -1,0 +1,20 @@
+{
+    "users": [
+      {
+      "firstname": "Иван",
+      "lastname": "Иванов",
+      "age": 37,
+      "hobbies": ["рыбалка", "охота", "футбол"],
+      "married": true,
+      "children": ["Мария", "Николай"]
+      },
+      {
+      "firstname": "Ольга",
+      "lastname": "Фролова",
+      "age": 21,
+      "hobbies": ["путешествия", "вышивание"],
+      "married": false,
+      "children": []
+      }
+    ]
+  }
